@@ -5,7 +5,7 @@ Viewport FPS Blender add-on
 **Viewport FPS** is a simple Blender add-on that calculates and displays the frames-per-second value in your 3D Viewport. Unlike the built-in FPS counter, which is used to track animation playback frame rate, **Viewport FPS** displays real-time FPS directly in your 3D Viewport at all times.
 
 ### Installation
-Download a version from github.com/Pazelock/Viewport-FPS/tree/main/Viewport_FPS
+Download a version from `github.com/Pazelock/Viewport-FPS/tree/main/Viewport_FPS`
 Drag n' drop downloaded .zip file into Blender.
 Enable the add-on by clicking a button in a pop-up.
 
